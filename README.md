@@ -1,4 +1,4 @@
-# Amit
+
 # Amit Repository
 ## Project Overview
 This repository is designed for Python projects related to 
